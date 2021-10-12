@@ -1,0 +1,11 @@
+{
+    "editor.mouseWheelZoom": true,
+    "window.zoomLevel": 2,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "C_Cpp.updateChannel": "Insiders",
+    "workbench.colorTheme": "Visual Studio Light",
+    "workbench.productIconTheme": "fluent-icons",
+    "liveshare.authenticationProvider": "Microsoft"
+}
